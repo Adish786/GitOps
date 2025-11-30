@@ -1,0 +1,10 @@
+# namespaces:
+#   db: tmb13db
+#   be: tmb13be
+#   fe: tmb13fe
+namespaces:
+  - tmb13dbtest
+  - tmb13betest
+  - tmb13fetest
+
+  
